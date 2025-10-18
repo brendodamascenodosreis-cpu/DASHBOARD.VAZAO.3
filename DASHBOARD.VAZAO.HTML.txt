@@ -28,7 +28,8 @@ li { background:#f1f1f1; margin:5px 0; padding:5px; border-radius:5px; }
 </div>
 
 <script>
-const urlGoogleScript = "https://script.google.com/macros/s/AKfycbwZRL2g3cump7W1UnV64ghtu_WRKydVMnAIMHp5-lZ_ToUEFwABA4pvy4UCkynNiuqOtw/exec?modo=leitura";
+const urlGoogleScript = "https://script.google.com/macros/s/AKfycbw2ad-9mnGT3iCcHpkk7lZE0P4X4EzXC0BpjlhcZzZ0oAC9lV8HA4FghlUvvZUXi9ZvzA/exec";
+
 
 let historicoCSV = [];
 let labels = [];
@@ -110,3 +111,4 @@ function exportarCSV(){
 </body>
 
 </html>
+
