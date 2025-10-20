@@ -28,7 +28,7 @@ li { background:#f1f1f1; margin:5px 0; padding:5px; border-radius:5px; }
 </div>
 
 <script>
-const urlGoogleScript = "https://script.google.com/macros/s/AKfycbyRvbeWrKI37heizyOjSr5EaZk6x3uXHukMVO66NtnAFwdGy3cf0BjYe2sLh6tIEkCNSw/exec";
+const urlGoogleScript = "https://script.google.com/macros/s/AKfycbxo3HekzPvclUtbbShVvl6gOJdQ8dLUqwnEVeWs-y6Vzf3ogaLcvQ8tFbJmCBHQabLP0A/exec";
 
 
 let historicoCSV = [];
@@ -111,5 +111,6 @@ function exportarCSV(){
 </body>
 
 </html>
+
 
 
